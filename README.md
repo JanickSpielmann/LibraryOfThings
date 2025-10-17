@@ -2,7 +2,8 @@
 
 Dieses Dokument beschreibt den Anforderungskatalog für das Softwareprojekt **„Library of Things“**.  
 Ziel des Projekts ist die Entwicklung einer webbasierten Anwendung, mit der Gegenstände erfasst, reserviert, ausgeliehen und zurückgegeben werden können.  
-Das System unterstützt verschiedene Benutzerrollen und bildet den gesamten Prozess der Ausleihe digital ab – von der Bestandsverwaltung bis zur Rückgabe.
+Das System unterstützt verschiedene Benutzerrollen und bildet den gesamten Prozess der Ausleihe digital ab von der Bestandsverwaltung bis zur Rückgabe. 
+Ein GUI ist im ersten Schritt nicht vorgesehen. 
 
 ---
 
@@ -64,6 +65,8 @@ Datenbank lokal (**H2** oder **Postgres**).
 ---
 
 ## 7. REST API Entwürfe
+
+TBD
 
 **Beispiele:**
 - `GET /api/items?search=&kategorie=&verfuegbar=true`  
