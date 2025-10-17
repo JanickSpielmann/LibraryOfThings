@@ -5,6 +5,12 @@
     <option name="originalFiles">
       <list>
         <option value="P:/LibraryOfThings/pom.xml" />
+        <option value="P:/LibraryOfThings/lot-server/pom.xml" />
+        <option value="P:/LibraryOfThings/lot-openapi-spec/pom.xml" />
+        <option value="P:/LibraryOfThings/lot-domain/pom.xml" />
+        <option value="P:/LibraryOfThings/lot-api/pom.xml" />
+        <option value="P:/LibraryOfThings/lot-domainservice/pom.xml" />
+        <option value="P:/LibraryOfThings/lot-rest/pom.xml" />
       </list>
     </option>
   </component>
