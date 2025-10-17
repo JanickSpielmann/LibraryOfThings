@@ -54,8 +54,8 @@ Datenbank lokal (**H2** oder **Postgres**).
 
 ## 6. Technischer Rahmen
 
-- **Sprache:** Java 17 oder 21  
-- **Framework:** Spring Boot 3.x (Web, Data JPA)  
+- **Sprache:** Java 25
+- **Framework:** Spring Boot 3.x
 - **Datenbank:** H2 lokal, optional Postgres  
 - **Build:** Maven  
 - **Tests:** JUnit 5  
